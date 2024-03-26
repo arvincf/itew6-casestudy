@@ -2,7 +2,8 @@
   <div>
     <AddTask @add-task="addTask" />
   </div>
-
+<br>
+<br>
   <div class="status">
     <h3>STATUS:</h3>
     <p>Active Task: {{ ActTasks }}</p>
@@ -54,7 +55,7 @@ computed: {
   background-color: #f8f9fa;
   border-radius: 5px;
   padding: 20px;
-  width: 300px;
+  width: 45%;
   margin: auto;
 }
 
