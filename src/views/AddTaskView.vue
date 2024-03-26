@@ -55,7 +55,7 @@ computed: {
   background-color: #f8f9fa;
   border-radius: 5px;
   padding: 20px;
-  width: 45%;
+  width: 48%;
   margin: auto;
 }
 
